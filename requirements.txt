@@ -4,5 +4,6 @@ scikit-learn
 pymongo
 python-dotenv
 nltk
+streamlit
 
 -e .
